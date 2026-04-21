@@ -5,5 +5,5 @@ Learning how to code!
 This is my first project. I'm learning python and building small projects to improve my skills.
 # Tech used
 -Python
-#Author
+# Author
 Cammy
