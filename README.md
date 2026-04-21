@@ -1,9 +1,10 @@
-# -Uno
-First project while learning Python
-Learning how to code!
-# About this project
-This is my first project. I'm learning python and building small projects to improve my skills.
-# Tech used
--Python
-# Author
-Cammy
+# Code_Uno
+My first coding space
+This repository contains my beginner projects as i learn programming.
+# vision 
+-A calculator app
+-A simple game 
+-An expense tracker
+-A personal study assistant
+---
+Made by Cammy...
